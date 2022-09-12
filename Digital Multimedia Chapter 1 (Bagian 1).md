@@ -1,6 +1,8 @@
 ## Chapter 1
 
-# Introduction
+# **Introduction**
+
+# **Pendahuluan**
 
 <div style="text-align: justify">
 
@@ -113,7 +115,9 @@ tipe data yang berbeda — 'jenis hal' yang berbeda yang berbeda
 operasi dapat diterapkan — dapat dilihat sebagai urgensi sementara
 dituntut oleh teknologi yang belum matang.*
 
-# Aplications Of Multimedia
+# **Aplications Of Multimedia**
+
+# **Aplikasi Multimedia**
 
 What is it, then, if not the combination of media, that distinguishes
 digital multimedia from previous forms of combined media? It is
@@ -389,3 +393,160 @@ molekul yang terlibat, menunjukkan perubahan yang mereka alami. Seperti ini
 contoh menunjukkan, visualisasi banyak digunakan oleh para ilmuwan; itu juga
 digunakan dalam bisnis, di mana sistem yang dilacak atau disimulasikan
 finansial, dan hasilnya juga lebih abstrak.*
+
+The established entertainment industry, while still delivering an
+essentially linear and non-interactive product, now makes extensive
+use of digital multimedia technology in the production of everything
+from blockbuster movies to gardening programmes on TV. The
+use of connections with digitally delivered material, such as links
+between programming and supporting Web sites, or accompanying
+CD-ROMs for mainstream movies, is rapidly expanding. At the
+same time, a rapidly increasing number of festivals, conferences and other international events are providing showcases for "new media"
+at all levels from the artistic avant garde to the purely commercial.
+
+*Industri hiburan yang mapan, sambil tetap memberikan
+produk dasarnya linier dan non-interaktif, sekarang membuat ekstensif
+penggunaan teknologi multimedia digital dalam produksi segalanya
+dari film blockbuster hingga program berkebun di TV. Itu
+penggunaan koneksi dengan materi yang dikirimkan secara digital, seperti tautan
+antara pemrograman dan situs Web pendukung, atau yang menyertai
+CD-ROM untuk film mainstream, berkembang pesat. Pada
+pada saat yang sama, jumlah festival, konferensi, dan acara internasional lainnya menyediakan showcase untuk "media baru"
+di semua tingkatan dari avant garde artistik hingga komersial murni.*
+
+# **Delivery of Multimedia**
+# **Pengiriman Multimedia**
+
+The applications we have mentioned so far are all basically concerned
+with presenting material, using a combination of media,
+in an interactive way. Some means of delivery is required, to get
+this material from its producer to its consumers. It is useful to
+distinguish between online and offline delivery.
+
+*Aplikasi yang telah kami sebutkan sejauh ini semuanya pada dasarnya terkait
+dengan penyajian materi, menggunakan kombinasi media,
+secara interaktif. Beberapa cara pengiriman diperlukan, untuk mendapatkan
+bahan ini dari produsen ke konsumennya. Hal ini berguna untuk
+membedakan antara pengiriman online dan offline.*
+
+Online delivery uses a network to send information from one
+computer, often a server machine providing centralized storage of
+bulky data, to another, usually a personal computer on somebody's
+desk. The network in question may be a local area network serving
+a single organization, but more often it will be the Internet. In
+particular, the World Wide Web has established itself as a popular
+means of delivering multimedia online.
+
+*Pengiriman online menggunakan jaringan untuk mengirim informasi dari satu
+komputer, seringkali merupakan mesin server yang menyediakan penyimpanan terpusat
+data besar, ke yang lain, biasanya komputer pribadi di komputer seseorang
+meja. Jaringan yang dimaksud mungkin merupakan jaringan area lokal yang melayani
+satu organisasi, tetapi yang lebih sering adalah Internet. Di
+khususnya, World Wide Web telah memantapkan dirinya sebagai yang populer
+sarana penyampaian multimedia secara online.*
+
+    The World Wide Web has achieved such supremacy as a means of accessing data over the Internet that in popular perception the Web and the net are sometimes seen as synonymous. This is not the case, as we will explain in Chapter 2, and in more detail in Chapter 15.
+
+    *World Wide Web telah mencapai supremasi seperti itu sebagai sarana untuk mengakses data melalui Internet yang dalam persepsi populer Web dan jaring terkadang dianggap sinonim. Ini bukan kasusnya, seperti yang akan kami jelaskan di Bab 2, dan lebih detail di Bab 15.*
+
+Where multimedia is delivered offline, some removable storage
+medium must be used. The widespread deployment of CD-ROM
+drives in personal computers in the mid-1990s was, to some extent,
+responsible for the surge in interest in multimedia at that time.
+This is because, for the first time, it made available a form of
+storage with adequate capacity (around 650 Mbytes, compared
+to the 1.44 Mbytes of floppy disks) to accommodate the large
+files characteristic of multimedia data, while still being relatively
+inexpensive to duplicate. The data transfer rate of early CD-ROM
+drives was too slow to support playback of video and sound, but
+more recent models have increased the speed, to the point where
+multimedia can be played directly from a CD-ROM, although smooth
+playback of full-screen video from CD-ROM is still impossible
+without additional hardware support.
+
+*Di mana multimedia dikirimkan secara offline, beberapa penyimpanan yang dapat dilepas
+media harus digunakan. Penyebaran CD-ROM secara luas
+drive di komputer pribadi pada pertengahan 1990-an, sampai batas tertentu,
+bertanggung jawab atas lonjakan minat multimedia pada waktu itu.
+Ini karena, untuk pertama kalinya, tersedia bentuk
+penyimpanan dengan kapasitas yang memadai (sekitar 650 Mbytes, dibandingkan
+hingga 1,44 Mbytes floppy disk) untuk mengakomodasi
+file karakteristik data multimedia, sementara masih relatif
+murah untuk digandakan. Kecepatan transfer data awal CD-ROM
+drive terlalu lambat untuk mendukung pemutaran video dan suara, tetapi
+model yang lebih baru telah meningkatkan kecepatan, ke titik di mana
+multimedia dapat diputar langsung dari CD-ROM, meskipun lancar
+pemutaran video layar penuh dari CD-ROM masih tidak mungkin
+tanpa dukungan perangkat keras tambahan.*
+
+While online delivery is widely seen as the future for multimedia,
+the low bandwidth available for most domestic connections to the
+Internet means that, especially for large and elaborate work, offline delivery on CD-ROM remains popular. There is an increasing trend
+towards a combination of offline and online delivery, with CDROMs
+being used to hold a fixed collection of data, augmented with
+links to Web sites, where updates and supporting information are
+available (sometimes for a supplementary fee).
+
+*Sementara pengiriman online secara luas dilihat sebagai masa depan untuk multimedia,
+bandwidth rendah yang tersedia untuk sebagian besar koneksi domestik ke
+Internet berarti bahwa, terutama untuk pekerjaan besar dan rumit, pengiriman offline pada CD-ROM tetap populer. Ada tren yang meningkat
+menuju kombinasi pengiriman offline dan online, dengan CDROM
+digunakan untuk menyimpan koleksi data yang tetap, ditambah dengan
+link ke situs Web, di mana pembaruan dan informasi pendukung berada
+tersedia (terkadang dengan biaya tambahan).*
+
+In 1995, an industry consortium announced the specification for a
+successor to CD-ROM, using the same size and shape platters, called
+DVD. Originally, this stood for Digital Video Disk, since the format
+was intended as a replacement for VHS cassettes as a distribution
+medium for video, as analogue methods of storing video began to
+be replaced by digital methods. It was immediately understood that
+DVD could be used equally well for any digital data, just as the
+audio Compact Disc had been adapted as the CD-ROM. Accordingly,
+the name was changed, somewhat desperately, to Digital Versatile
+Disk, thus keeping the abbreviation DVD. DVD offers a much higher
+storage capacity (up to 17 Gbytes on a double-sided disk), with
+similar transfer rates to modern (12x and higher) CD-ROM drives.
+Despite considerable media enthusiasm for DVD, it has not been
+taken up as rapidly as originally predicted, but during 1999, an
+increasing number of personal computers were being shipped with
+DVD drives fitted. Since these drives can also read CD-ROMs, it
+seems likely that they will become standard peripherals, and that
+DVD will be used to deliver multimedia, especially high quality
+video.
+
+*Pada tahun 1995, sebuah konsorsium industri mengumumkan spesifikasi untuk a
+pengganti CD-ROM, menggunakan piringan ukuran dan bentuk yang sama, yang disebut
+DVD. Awalnya, ini adalah singkatan dari Digital Video Disk, karena formatnya
+dimaksudkan sebagai pengganti kaset VHS sebagai distribusi
+media untuk video, karena metode penyimpanan video analog mulai
+digantikan dengan metode digital. Segera dipahami bahwa
+DVD dapat digunakan dengan baik untuk data digital apa pun, sama seperti
+audio Compact Disc telah diadaptasi sebagai CD-ROM. Demikian,
+namanya diubah, agak putus asa, menjadi Digital Versatile
+Disk, sehingga menjaga singkatan DVD. DVD menawarkan jauh lebih tinggi
+kapasitas penyimpanan (hingga 17 Gbyte pada disk dua sisi), dengan
+kecepatan transfer yang sama dengan drive CD-ROM modern (12x dan lebih tinggi).
+Meskipun antusiasme media yang cukup besar untuk DVD, itu belum
+diambil secepat yang diperkirakan semula, tetapi selama tahun 1999,
+peningkatan jumlah komputer pribadi yang dikirim dengan
+DVD drive dipasang. Karena drive ini juga dapat membaca CD-ROM,
+sepertinya mereka akan menjadi periferal standar, dan itu
+DVD akan digunakan untuk menyajikan multimedia, terutama kualitas tinggi
+video.*
+
+Online delivery, however, offers possibilities which are not available
+offline. In particular, it enables the delivery of (almost) live multimedia
+content, which in turn makes possible novel applications such
+as video conferencing and broadcast multimedia. Generally, when
+multimedia is delivered online, the delivery need not be passive, in
+the way that it is from CD-ROM: things can happen at the delivering
+end; for example, a database query can be executed.
+
+*Pengiriman online, bagaimanapun, menawarkan kemungkinan yang tidak tersedia
+offline. Secara khusus, ini memungkinkan pengiriman (hampir) multimedia langsung
+konten, yang pada gilirannya memungkinkan aplikasi baru seperti
+sebagai konferensi video dan siaran multimedia. Umumnya, ketika
+multimedia disampaikan secara online, penyampaiannya tidak perlu pasif,
+cara itu dari CD-ROM: hal-hal dapat terjadi pada saat pengiriman
+akhir; misalnya, kueri basis data dapat dieksekusi.*
